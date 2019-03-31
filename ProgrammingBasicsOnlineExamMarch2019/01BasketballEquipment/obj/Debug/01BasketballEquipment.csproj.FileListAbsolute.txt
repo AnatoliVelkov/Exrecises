@@ -1,0 +1,7 @@
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\01BasketballEquipment\bin\Debug\01BasketballEquipment.exe.config
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\01BasketballEquipment\bin\Debug\01BasketballEquipment.exe
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\01BasketballEquipment\bin\Debug\01BasketballEquipment.pdb
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\01BasketballEquipment\obj\Debug\01BasketballEquipment.csprojAssemblyReference.cache
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\01BasketballEquipment\obj\Debug\01BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\01BasketballEquipment\obj\Debug\01BasketballEquipment.exe
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\01BasketballEquipment\obj\Debug\01BasketballEquipment.pdb

@@ -1,0 +1,6 @@
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\03Gymnastics\obj\Debug\03Gymnastics.csproj.CoreCompileInputs.cache
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\03Gymnastics\bin\Debug\03Gymnastics.exe.config
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\03Gymnastics\bin\Debug\03Gymnastics.exe
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\03Gymnastics\bin\Debug\03Gymnastics.pdb
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\03Gymnastics\obj\Debug\03Gymnastics.exe
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\03Gymnastics\obj\Debug\03Gymnastics.pdb

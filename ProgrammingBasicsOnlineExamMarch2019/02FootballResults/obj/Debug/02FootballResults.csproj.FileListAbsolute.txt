@@ -1,0 +1,6 @@
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\02FootballResults\bin\Debug\02FootballResults.exe.config
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\02FootballResults\bin\Debug\02FootballResults.exe
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\02FootballResults\bin\Debug\02FootballResults.pdb
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\02FootballResults\obj\Debug\02FootballResults.csproj.CoreCompileInputs.cache
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\02FootballResults\obj\Debug\02FootballResults.exe
+C:\Users\Anatoli Velkov\source\repos\ProgrammingBasicsOnlineExamMarch2019\02FootballResults\obj\Debug\02FootballResults.pdb
