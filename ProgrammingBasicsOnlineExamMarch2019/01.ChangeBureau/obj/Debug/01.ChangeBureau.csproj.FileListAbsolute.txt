@@ -1,0 +1,7 @@
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsRetakeExamJanuary2019\01.ChangeBureau\bin\Debug\01.ChangeBureau.exe.config
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsRetakeExamJanuary2019\01.ChangeBureau\bin\Debug\01.ChangeBureau.exe
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsRetakeExamJanuary2019\01.ChangeBureau\bin\Debug\01.ChangeBureau.pdb
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsRetakeExamJanuary2019\01.ChangeBureau\obj\Debug\01.ChangeBureau.csprojAssemblyReference.cache
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsRetakeExamJanuary2019\01.ChangeBureau\obj\Debug\01.ChangeBureau.csproj.CoreCompileInputs.cache
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsRetakeExamJanuary2019\01.ChangeBureau\obj\Debug\01.ChangeBureau.exe
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsRetakeExamJanuary2019\01.ChangeBureau\obj\Debug\01.ChangeBureau.pdb

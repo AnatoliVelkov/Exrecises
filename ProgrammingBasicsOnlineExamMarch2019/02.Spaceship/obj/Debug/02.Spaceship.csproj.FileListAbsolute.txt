@@ -1,0 +1,7 @@
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\02.Spaceship\bin\Debug\02.Spaceship.exe.config
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\02.Spaceship\bin\Debug\02.Spaceship.exe
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\02.Spaceship\bin\Debug\02.Spaceship.pdb
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\02.Spaceship\obj\Debug\02.Spaceship.csproj.CoreCompileInputs.cache
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\02.Spaceship\obj\Debug\02.Spaceship.exe
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\02.Spaceship\obj\Debug\02.Spaceship.pdb
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\02.Spaceship\obj\Debug\02.Spaceship.csprojAssemblyReference.cache

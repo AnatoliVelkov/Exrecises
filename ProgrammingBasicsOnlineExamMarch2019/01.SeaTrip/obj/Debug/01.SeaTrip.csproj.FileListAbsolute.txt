@@ -1,0 +1,7 @@
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\01.SeaTrip\bin\Debug\01.SeaTrip.exe.config
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\01.SeaTrip\bin\Debug\01.SeaTrip.exe
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\01.SeaTrip\bin\Debug\01.SeaTrip.pdb
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\01.SeaTrip\obj\Debug\01.SeaTrip.csprojAssemblyReference.cache
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\01.SeaTrip\obj\Debug\01.SeaTrip.csproj.CoreCompileInputs.cache
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\01.SeaTrip\obj\Debug\01.SeaTrip.exe
+C:\Users\Anatoli Velkov\Desktop\ProgrammingBasics\ProgrammingBasicsExam31March2019\01.SeaTrip\obj\Debug\01.SeaTrip.pdb
